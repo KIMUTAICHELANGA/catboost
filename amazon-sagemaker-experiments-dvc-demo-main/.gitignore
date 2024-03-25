@@ -1,0 +1,8 @@
+**/*.ipynb_checkpoints/
+sagemaker-dvc-sample
+.idea/amazon-sagemaker-experiments-dvc-demo.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
